@@ -6,6 +6,7 @@ body {
   background-image: url('../img/background.png');
   background-position: center;
   font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
   height: 850px;
   overflow: auto;
   text-transform: uppercase;
@@ -20,12 +21,12 @@ body {
 
 .sml-blk {
   height: 210px;
-  padding: 50px;
+  padding: 30px 40px;
 }
 
 .lrg-blk {
   height: 430px;
-  padding: 80px 50px;
+  padding: 80px 40px;
 }
 
 .align-center {
@@ -43,6 +44,8 @@ body {
 .dk-bg {
   background-color: #3B3B3B;
   color: white;
+  font-size: 30px;
+  line-height: 10px;
 }
 
 .year {
@@ -51,4 +54,9 @@ body {
 
 span {
   background-color: #FFF44F;
+}
+
+strong {
+  font-size: 38px;
+  text-transform: none;
 }
