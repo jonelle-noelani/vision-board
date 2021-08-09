@@ -20,10 +20,12 @@ body {
 
 .sml-blk {
   height: 210px;
+  padding: 50px;
 }
 
 .lrg-blk {
   height: 430px;
+  padding: 80px 50px;
 }
 
 .align-center {
