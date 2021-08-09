@@ -8,6 +8,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   font-size: 20px;
   height: 850px;
+  margin: 35px;
   overflow: auto;
   text-transform: uppercase;
   width: 1200px;
