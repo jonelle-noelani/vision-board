@@ -5,6 +5,15 @@ body {
 #vision-board {
   background-image: url('../img/background.png');
   background-position: center;
+  font-family: 'Montserrat', sans-serif;
   height: 850px;
+  overflow: auto;
+  text-transform: uppercase;
   width: 1200px;
+}
+
+.block {
+  box-sizing: border-box;
+  float: left;
+  width: 400px;
 }
