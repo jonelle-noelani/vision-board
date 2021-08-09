@@ -40,4 +40,9 @@ body {
 
 .dk-bg {
   background-color: #3B3B3B;
+  color: white;
 }
+
+.year {
+  font-family: 'Permanent Marker', cursive;
+} 
