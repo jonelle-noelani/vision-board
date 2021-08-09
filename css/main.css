@@ -1,0 +1,10 @@
+body {
+  background-color: #E8E8E8;
+}
+
+#vision-board {
+  background-image: url('../img/background.png');
+  background-position: center;
+  height: 850px;
+  width: 1200px;
+}
