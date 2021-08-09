@@ -17,3 +17,19 @@ body {
   float: left;
   width: 400px;
 }
+
+.sml-blk {
+  height: 210px;
+}
+
+.lrg-blk {
+  height: 430px;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.align-right {
+  text-align: right;
+}
