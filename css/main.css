@@ -33,3 +33,11 @@ body {
 .align-right {
   text-align: right;
 }
+
+.lt-bg {
+  background-color: white;
+}
+
+.dk-bg {
+  background-color: #3B3B3B;
+}
